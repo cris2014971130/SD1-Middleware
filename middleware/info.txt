@@ -1,0 +1,265 @@
+TIME:09:48:31
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:32
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:32
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:33
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:33
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:34
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:34
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:35
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:35
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:36
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:37
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:37
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:38
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:38
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:39
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:39
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:40
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:41
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:41
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:42
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:42
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:43
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:43
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:44
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:44
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:45
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:48:45
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:49:49
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:49:49
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:49:50
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:49:50
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:49:51
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:49:52
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:49:52
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:49:53
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:49:53
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:49:54
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:49:55
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:49:55
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:49:56
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:49:56
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:49:57
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:49:57
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:49:58
+Server1
+Servidor 1
+Server2
+Server 2
+TIME:09:54:33
+Server1
+
+Server2
+Server 2
+TIME:09:54:34
+Server1
+
+Server2
+Server 2
+TIME:09:54:34
+Server1
+
+Server2
+Server 2
+TIME:09:54:35
+Server1
+
+Server2
+Server 2
+TIME:09:54:35
+Server1
+
+Server2
+Server 2
+TIME:09:54:36
+Server1
+
+Server2
+Server 2
+TIME:09:54:36
+Server1
+
+Server2
+Server 2
+TIME:09:54:37
+Server1
+
+Server2
+Server 2
+TIME:09:54:37
+Server1
+
+Server2
+Server 2
