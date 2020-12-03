@@ -1,19 +1,19 @@
-const express = require('express');
+const express = require("express");
 const app = express();
 const port = 2000;
 
-const hbs = require('hbs');
+const hbs = require("hbs");
 
-hbs.registerPartials(__dirname + '/public');
-app.set('view engine', 'hbs');
+hbs.registerPartials(__dirname + "/views/partials");
+app.set("view engine", "hbs");
 
-app.get('/', (req, res) => {
-	res.render('index', {
-		hour: 12,
-		date: '12/21',
-	});
+app.get("/", (req, res) => {
+  res.render("index", {
+    hour: 12,
+    date: "12/21",
+  });
 });
 
 app.listen(port, () => {
-	console.log(`Middlewar -> ${port}`);
+  console.log(`Middlewar -> ${port}`);
 });
