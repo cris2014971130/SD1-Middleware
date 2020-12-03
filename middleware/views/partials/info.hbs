@@ -1,5 +1,28 @@
-<script></script>
 <h2>{{hora}}</h2>
 <h2>Estado Server1 {{server1}}</h2>
 <h2>Estado Server2 {{server2}}</h2>
-<button onclick="myFunction()">Click me</button>
+
+<button onclick="updateBash()">Actualizar BASH</button>
+
+<script>
+    function updateBash() {
+        console.log('Prueba');
+        var c; // a character of the shell's stdout stream
+        var retval = ''; // the return value is the stdout of the shell
+
+        var rt = Runtime.getRuntime(); // get current runTime object
+        var shell = rt.exec("bash -c '" + 'bash info.sh' + "'"); // start the shell
+        var shellIn = shell.getInputStream(); // this captures the output from the command
+
+        while ((c = shellIn.read()) != -1) {
+            // loop to capture shell's stdout
+            retval += String.fromCharCode(c); // one character at a time
+        }
+
+        bash_exit_code = shell.waitFor(); // wait for the shell to finish and get the return code
+
+        shellIn.close(); // close the shell's output stream
+
+        return retval;
+    }
+</script>
