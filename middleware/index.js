@@ -15,6 +15,8 @@ var server1;
 var server2;
 var horaAux = '';
 
+var aux = "Hola mundo"
+
 setInterval(() => {
 	readLastLines.read('info.txt', 20).then((lines) => {
 		let data = lines.split('\n');
